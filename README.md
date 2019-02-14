@@ -1,2 +1,2 @@
 # XP-Sharp
-It's a mistake in C#
+XP in C# for dotnet core
